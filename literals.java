@@ -10,5 +10,14 @@ public class literals {
     float f1= 1.11f;//Here f means it is float value as default x.xx means double in java.
      double d1=1.11; //Here you can write x.xxd or ignore d as java takes default decimal value as double.
     System.out.println(age);
+
+    Integer num1=50;
+    Integer num2=50;
+    if(num1==num2){
+        System.out.println("num1==num2");
+    }
+    else{
+        System.out.println("num1!=num2");
+    }
     }
 }
