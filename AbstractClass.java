@@ -32,5 +32,6 @@ public class AbstractClass {
         c1.greet();
         Design d1=new Nepali(); //This is also possible and gives output as Namaste
         d1.greet();
+
     }
 }
